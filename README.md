@@ -5,6 +5,10 @@
 A very simple python program to implement Multiple Linear Regression using the LinearRegression class from sklearn.linear_model library.
 
 
+
+In reality, there are multiple variables that impact the Co2emission. When more than one independent variable is present, the process is called multiple linear regression. An example of multiple linear regression is predicting co2emission using the features FUELCONSUMPTION_COMB, EngineSize and Cylinders of cars. The good thing here is that multiple linear regression model is the extension of the simple linear regression model.
+
+
 ## Understanding the Data FuelConsumption.csv:
 
 We have downloaded a fuel consumption dataset, FuelConsumption.csv, which contains model-specific fuel consumption ratings and estimated carbon dioxide emissions for new light-duty vehicles for retail sale in Canada. Dataset source
