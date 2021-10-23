@@ -1,5 +1,22 @@
 # Multiple-Linear-Regression
 
+
+
+A very simple python program to implement Multiple Linear Regression using the LinearRegression class from sklearn.linear_model library.
+
+The program also does Backward Elimination to determine the best independent variables to fit into the regressor object of the LinearRegression class.
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm JopperKing</h1>
 <h3 align="center">A passionate frontend developer from Earth ;).</h3>
 
