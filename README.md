@@ -4,12 +4,8 @@
 
 A very simple python program to implement Multiple Linear Regression using the LinearRegression class from sklearn.linear_model library.
 
-The program also does Backward Elimination to determine the best independent variables to fit into the regressor object of the LinearRegression class.
 
-
-
-Understanding the Data
-FuelConsumption.csv:
+## Understanding the Data FuelConsumption.csv:
 
 We have downloaded a fuel consumption dataset, FuelConsumption.csv, which contains model-specific fuel consumption ratings and estimated carbon dioxide emissions for new light-duty vehicles for retail sale in Canada. Dataset source
 
